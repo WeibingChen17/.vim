@@ -27,7 +27,7 @@ set undoreload=10000
 filetype plugin on
 filetype indent plugin on
 
-set autochdir
+"set autochdir
 set tags=tags;
 
 set wildmode=longest,list,full
