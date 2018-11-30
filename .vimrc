@@ -33,9 +33,6 @@ set tags=tags;
 set wildmode=longest,list,full
 set wildmenu
 
-"set title
-"set titlestring=%n%m%t
-
 if &diff
     colorscheme delek
 endif
